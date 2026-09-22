@@ -46,4 +46,5 @@ Tim Requarth's Substack piece argues that AI detectors are really AI inference t
 
 A lot of Pangram traffic comes from content teams checking articles before they go live. If that is you, the detector is the last step of a pipeline whose real cost is writing and publishing at volume. [Try Supatraffic - SEO article writing with cover images and autopilot publishing](https://supatraffic.com?utm_source=github&utm_medium=ugc&utm_campaign=pangram-ai-detector-api-examples&utm_content=readme-top&utm_term=tier-r) for that part; you can still run the finished piece through walkthrough 1 before it ships.
 
+
 _Last reviewed: 2026-09-22_
